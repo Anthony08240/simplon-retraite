@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 11,43em;
+    background-color: #EFEFEF;
+}
+header hr {
+    margin-top: -0,12em;
+    height: 5px;
+	border: 0;
+	color: #707070;
+	background-color: #707070;
+}
+.nav {
+    position: sticky;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo2 {
+    height: 183px;
+    width: 222px;
+}
+.navtxt {
+    width: 897px;
+    display: flex;
+    justify-content: space-around;
+}
+.navtxt a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #707070;
+    text-decoration: none;
+    font-size: 281%;
+}
+.tete {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -10px;
+    background-color: #EFEFEF;
+    height: 106px;
+    color: #707070;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #C3C3C3;
+    height: 251px;
+
+} 
+.foot1 {
+    color: #707070;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.foot2 {
+    color: #707070;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+.facebook {
+    height: 100px;
+    width: 100px;
+}
+.twitter {
+    height: 100px;
+    width: 100px;
+}
+.copy {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #C3C3C3;
+}
+.copylogo {
+    height: 30px;
+    width: 30px;
+}
+.copytxt {
+    font-size: 20px;
+    color: #707070;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    font-size: 60px;
+    color: #707070;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.desc {
+    height: 800px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.description {
+    font-size: 40px;
+    color: #707070;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.rouge {
+    color: #CD142A;
+}
