@@ -21,6 +21,9 @@
             <div class="accu"><p>Résidences</p></div>
         </div>
     </header>
+
+    <?php include("carousel.php"); ?>
+
     <div class="residence2">
         <div class="txtres"><p class="appart2">Concernant la résidence :<br>
 
