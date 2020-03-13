@@ -21,6 +21,10 @@
             <div class="accu"><p>Accueil</p></div>
         </div>
     </header>
+    <div class="residence1">
+        <div class="txtres"></div>
+        <div class="photos"></div>
+    </div>
     <div class="footer">
         <div class="foot1"><p>9 Avenue de Saint-Jean,<br>46800 Montcuq</p></div>
         <div class="foot2"><p>Campu Sup,<br>08000 Charleville-Mézières</p></div>
