@@ -59,7 +59,7 @@
 <!-- START REVOLUTION SLIDER 5.4.1 fullwidth mode -->
 	<div id="rev_slider_467_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.1">
 <ul>	<!-- SLIDE  -->
-	<li data-index="rs-1596" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="img/maison1.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+	<li data-index="rs-1596" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="img/maison1.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="maison 1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
 		<img src="img/maison1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
@@ -130,7 +130,7 @@
 			style="z-index: 7; white-space: nowrap;text-transform:left;cursor:default;"><i class="pe-7s-refresh"></i> </div>
 	</li>
 	<!-- SLIDE  -->
-	<li data-index="rs-1597" data-transition="fadetotopfadefrombottom" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500"  data-thumb="img/maison4.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Parallax" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+	<li data-index="rs-1597" data-transition="fadetotopfadefrombottom" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500"  data-thumb="img/maison4.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="maison 2" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
 		<img src="img/maison4.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
@@ -156,7 +156,7 @@
 			data-paddingbottom="[10,10,10,10]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 8; white-space: nowrap;text-transform:left;"><font="black">Simplon </div>
+			style="z-index: 8; white-space: nowrap;text-transform:left;color:#707070;"><font="black">Simplon </div>
 
 		<!-- LAYER NR. 5 -->
 		<div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-2" 
@@ -177,119 +177,18 @@
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 9; white-space: nowrap;text-transform:left;">Developpeur Web. </div>
+			style="z-index: 9; white-space: nowrap;text-transform:left; color:#707070;">Developpeur Web. </div>
 
 		<!-- LAYER NR. 6 -->
-		<div class="tp-caption NotGeneric-Icon   tp-resizeme rs-parallaxlevel-1" 
-			 id="slide-1597-layer-8" 
-			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-			 data-y="['middle','middle','middle','middle']" data-voffset="['-68','-68','-68','-68']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="text" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 10; white-space: nowrap;text-transform:left;cursor:default;"><i class="pe-7s-mouse"></i> </div>
-
+	
 		<!-- LAYER NR. 7 -->
-		<div class="tp-caption   tp-resizeme rs-parallaxlevel-8" 
-			 id="slide-1597-layer-10" 
-			 data-x="['left','left','left','left']" data-hoffset="['680','680','680','680']" 
-			 data-y="['top','top','top','top']" data-voffset="['632','632','632','632']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"from":"opacity:0;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 11;text-transform:left;border-width:0px;">
-<div class="rs-looped rs-pendulum"  data-easing="linearEaseNone" data-startdeg="-20" data-enddeg="360" data-speed="35" data-origin="50% 50%"><img src="../../assets/images/blurflake4.png" alt="" data-ww="['240px','240px','240px','240px']" data-hh="['240px','240px','240px','240px']" width="240" height="240" data-no-retina> </div></div>
-
-		<!-- LAYER NR. 8 -->
-		<div class="tp-caption   tp-resizeme rs-parallaxlevel-7" 
-			 id="slide-1597-layer-11" 
-			 data-x="['left','left','left','left']" data-hoffset="['948','948','948','948']" 
-			 data-y="['top','top','top','top']" data-voffset="['487','487','487','487']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"from":"opacity:0;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 12;text-transform:left;border-width:0px;">
-<div class="rs-looped rs-wave"  data-speed="20" data-angle="0" data-radius="50px" data-origin="50% 50%"><img src="../../assets/images/blurflake3.png" alt="" data-ww="['170px','170px','170px','170px']" data-hh="['170px','170px','170px','170px']" width="170" height="170" data-no-retina> </div></div>
+		
 
 		<!-- LAYER NR. 9 -->
-		<div class="tp-caption   tp-resizeme rs-parallaxlevel-4" 
-			 id="slide-1597-layer-12" 
-			 data-x="['left','left','left','left']" data-hoffset="['719','719','719','719']" 
-			 data-y="['top','top','top','top']" data-voffset="['200','200','200','200']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"from":"opacity:0;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 13;text-transform:left;border-width:0px;">
-<div class="rs-looped rs-rotate"  data-easing="Power2.easeInOut" data-startdeg="-20" data-enddeg="360" data-speed="20" data-origin="50% 50%"><img src="../../assets/images/blurflake2.png" alt="" data-ww="['50px','50px','50px','50px']" data-hh="['51px','51px','51px','51px']" width="50" height="51" data-no-retina> </div></div>
+	
 
 		<!-- LAYER NR. 10 -->
-		<div class="tp-caption   tp-resizeme rs-parallaxlevel-6" 
-			 id="slide-1597-layer-13" 
-			 data-x="['left','left','left','left']" data-hoffset="['187','187','187','187']" 
-			 data-y="['top','top','top','top']" data-voffset="['216','216','216','216']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"from":"opacity:0;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 14;text-transform:left;border-width:0px;">
-<div class="rs-looped rs-wave"  data-speed="4" data-angle="0" data-radius="10" data-origin="50% 50%"><img src="../../assets/images/blurflake1.png" alt="" data-ww="['120px','120px','120px','120px']" data-hh="['120px','120px','120px','120px']" width="120" height="120" data-no-retina> </div></div>
-	</li>
-</ul>
-<div class="tp-bannertimer" style="height: 7px; background-color: rgba(255, 255, 255, 0.25);"></div>	</div>
+	
 </div><!-- END REVOLUTION SLIDER -->
 		<script type="text/javascript">
 						var tpj=jQuery;

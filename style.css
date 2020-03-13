@@ -114,10 +114,11 @@ h1 {
     color: #CD142A;
 }
 .residence2 {
-    background-color: #FFFFFF;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #EFEFEF;
+    height: 650px;
 }
 .appart2 {
     text-align: center;
@@ -129,6 +130,9 @@ h1 {
     height: 500px;
     width: 500px;
 }
-.residence2 {
+.residence1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     height: 650px;
 }
