@@ -18,12 +18,20 @@
         </div>
         <hr>
         <div class="tete">
-            <div class="accu"><p>Accueil</p></div>
+            <div class="accu"><p>Résidences</p></div>
         </div>
     </header>
-    <div class="residence1">
-        <div class="txtres"></div>
-        <div class="photos"> <img src="img/appart2.png"> </div>
+    <div class="residence2">
+        <div class="txtres"><p class="appart2">Concernant la résidence :<br>
+
+Maison individuel à disposition des résidents avec barbecue et plancha<br>
+Parc arboré avec chemins de promenade dans un cadre calme et agréable<br>
+Pc gamer<br>
+Borne d'arcade<br>
+
+
+Prix: 1050€ (wifi inclue)</div>
+        <div class="photos"><img class="appart1" src="img/appart 2.png"></div>
     </div>
     <div class="footer">
         <div class="foot1"><p>9 Avenue de Saint-Jean,<br>46800 Montcuq</p></div>

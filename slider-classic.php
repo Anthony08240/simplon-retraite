@@ -61,9 +61,9 @@
 <!-- START REVOLUTION SLIDER 5.4.1 auto mode -->
 	<div id="rev_slider_1078_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.1">
 <ul>	<!-- SLIDE  -->
-	<li data-index="rs-3045" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="assets/images/datcolor-100x50.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+	<li data-index="rs-3045" data-transition="zoomout" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="img/maison de retraite les simploniens.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off"  data-title="1" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="assets/images/datcolor.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+		<img src="img/maison de retraite les simploniens.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 1 -->
@@ -87,7 +87,7 @@
 			data-paddingbottom="[10,10,10,10]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 5; white-space: nowrap;text-transform:left;">I'M OLDSCHOOL </div>
+			style="z-index: 5; white-space: nowrap;text-transform:left;">LES SIMPLONIENS</div>
 
 		<!-- LAYER NR. 2 -->
 		<div class="tp-caption NotGeneric-SubTitle   tp-resizeme" 
@@ -108,7 +108,7 @@
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 6; white-space: nowrap;text-transform:left;">BUT STILL QUITE COOL. </div>
+			style="z-index: 6; white-space: nowrap;text-transform:left;">Maison de retraite.</div>
 
 		<!-- LAYER NR. 3 -->
 		<div class="tp-caption NotGeneric-Icon   tp-resizeme" 
@@ -132,9 +132,9 @@
 			style="z-index: 7; white-space: nowrap;text-transform:left;cursor:default;"><i class="pe-7s-refresh"></i> </div>
 	</li>
 	<!-- SLIDE  -->
-	<li data-index="rs-3046" data-transition="fadetotopfadefrombottom" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500"  data-thumb="assets/images/touchit-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Parallax" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+	<li data-index="rs-3046" data-transition="fadetotopfadefrombottom" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="1500"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="2" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="assets/images/touchit.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+		<img src="img/walpepper 2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 4 -->
@@ -158,7 +158,7 @@
 			data-paddingbottom="[10,10,10,10]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 8; white-space: nowrap;text-transform:left;">MOUSE PARALLAX </div>
+			style="z-index: 8; white-space: nowrap;text-transform:left;"> MAISON DE RETRAITE </div>
 
 		<!-- LAYER NR. 5 -->
 		<div class="tp-caption NotGeneric-SubTitle   tp-resizeme rs-parallaxlevel-2" 
@@ -179,7 +179,7 @@
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 9; white-space: nowrap;text-transform:left;">AIN'T THAT NICE? </div>
+			style="z-index: 9; white-space: nowrap;text-transform:left;"> Pour geek </div>
 
 		<!-- LAYER NR. 6 -->
 		<div class="tp-caption NotGeneric-Icon   tp-resizeme rs-parallaxlevel-1" 
@@ -288,12 +288,12 @@
 			data-paddingleft="[0,0,0,0]"
 
 			style="z-index: 14;text-transform:left;border-width:0px;">
-<div class="rs-looped rs-wave"  data-speed="4" data-angle="0" data-radius="10" data-origin="50% 50%"><img src="../../assets/images/blurflake1.png" alt="" data-ww="['120px','120px','120px','120px']" data-hh="['120px','120px','120px','120px']" width="120" height="120" data-no-retina> </div></div>
+
 	</li>
 	<!-- SLIDE  -->
-	<li data-index="rs-3047" data-transition="zoomin" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb="assets/images/bike-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Ken Burns" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+	<li data-index="rs-3047" data-transition="zoomin" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="2000"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="3" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="assets/images/bike.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+		<img src="img/walpepper.jpg"  alt=""  data-bgposition="center center" data-kenburns="on" data-duration="30000" data-ease="Linear.easeNone" data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 11 -->
@@ -338,7 +338,7 @@
 			data-paddingbottom="[10,10,10,10]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 16; white-space: nowrap;text-transform:left;">KEN BURNS </div>
+			style="z-index: 16; white-space: nowrap;text-transform:left;"> SIMPLON </div>
 
 		<!-- LAYER NR. 13 -->
 		<div class="tp-caption NotGeneric-SubTitle   tp-resizeme" 
@@ -359,7 +359,7 @@
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 17; white-space: nowrap;text-transform:left;">IN A SMOOTH WAY </div>
+			style="z-index: 17; white-space: nowrap;text-transform:left;">Une bande de dingues</div>
 	</li>
 </ul>
 <div class="tp-bannertimer" style="height: 7px; background-color: rgba(255, 255, 255, 0.25);"></div>	</div>

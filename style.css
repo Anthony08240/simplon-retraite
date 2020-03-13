@@ -19,6 +19,7 @@ header hr {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .logo2 {
     height: 183px;
@@ -111,4 +112,23 @@ h1 {
 }
 .rouge {
     color: #CD142A;
+}
+.residence2 {
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.appart2 {
+    text-align: center;
+    font-size: 40px;
+    color: #707070;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.appart1 {
+    height: 500px;
+    width: 500px;
+}
+.residence2 {
+    height: 650px;
 }
