@@ -11,7 +11,7 @@
             <div class="logo"><img class="logo2" src="img/logo simplon.png"></div>
             <div class="navtxt">
                 <div class="acc"><a href="*">Accueil</a></div>
-                <div class="res"><a href="*">Résidences</a></div>
+                <div class="res"><a href="residences.php">Résidences</a></div>
                 <div class="pho"><a href="*">Photos</a></div>
                 <div class="cont"><a href="*">Contact</a></div>
             </div>
@@ -21,6 +21,7 @@
             <div class="accu"><p>Accueil</p></div>
         </div>
     </header>
+    <?php include ("slider-classic.php");?>
         <div class="desc">
             <div class="desctitre"><h1>MAISON DE RETRAITE LES SIMPLONIENS</h1></div>
             <div class="description"><p>La Résidence <span class="rouge">Les Simploniens</span> est un EHPAD<br> 

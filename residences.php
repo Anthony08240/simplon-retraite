@@ -23,7 +23,7 @@
     </header>
     <div class="residence1">
         <div class="txtres"></div>
-        <div class="photos"></div>
+        <div class="photos"> <img src="img/appart2.png"> </div>
     </div>
     <div class="footer">
         <div class="foot1"><p>9 Avenue de Saint-Jean,<br>46800 Montcuq</p></div>
