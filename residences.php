@@ -10,10 +10,10 @@
         <div class="nav">
             <div class="logo"><img class="logo2" src="img/logo simplon.png"></div>
             <div class="navtxt">
-                <div class="acc"><a href="*">Accueil</a></div>
-                <div class="res"><a href="*">Résidences</a></div>
-                <div class="pho"><a href="*">Photos</a></div>
-                <div class="cont"><a href="*">Contact</a></div>
+                <div class="acc"><a href="index.php">Accueil</a></div>
+                <div class="res"><a href="residences.php">Résidences</a></div>
+                <div class="pho"><a href="photos.php">Photos</a></div>
+                <div class="cont"><a href="contact.php">Contact</a></div>
             </div>
         </div>
         <hr>

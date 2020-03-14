@@ -179,7 +179,7 @@
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 9; white-space: nowrap;text-transform:left;"> Pour geek </div>
+			style="z-index: 9; white-space: nowrap;text-transform:left;">Pour Geek</div>
 
 		<!-- LAYER NR. 6 -->
 		<div class="tp-caption NotGeneric-Icon   tp-resizeme rs-parallaxlevel-1" 
@@ -202,71 +202,6 @@
 
 			style="z-index: 10; white-space: nowrap;text-transform:left;cursor:default;"><i class="pe-7s-mouse"></i> </div>
 
-		<!-- LAYER NR. 7 -->
-		<div class="tp-caption   tp-resizeme rs-parallaxlevel-8" 
-			 id="slide-3046-layer-10" 
-			 data-x="['left','left','left','left']" data-hoffset="['680','680','680','680']" 
-			 data-y="['top','top','top','top']" data-voffset="['632','632','632','632']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"from":"opacity:0;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 11;text-transform:left;border-width:0px;">
-<div class="rs-looped rs-pendulum"  data-easing="linearEaseNone" data-startdeg="-20" data-enddeg="360" data-speed="35" data-origin="50% 50%"><img src="../../assets/images/blurflake4.png" alt="" data-ww="['240px','240px','240px','240px']" data-hh="['240px','240px','240px','240px']" width="240" height="240" data-no-retina> </div></div>
-
-		<!-- LAYER NR. 8 -->
-		<div class="tp-caption   tp-resizeme rs-parallaxlevel-7" 
-			 id="slide-3046-layer-11" 
-			 data-x="['left','left','left','left']" data-hoffset="['948','948','948','948']" 
-			 data-y="['top','top','top','top']" data-voffset="['487','487','487','487']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"from":"opacity:0;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 12;text-transform:left;border-width:0px;">
-<div class="rs-looped rs-wave"  data-speed="20" data-angle="0" data-radius="50px" data-origin="50% 50%"><img src="../../assets/images/blurflake3.png" alt="" data-ww="['170px','170px','170px','170px']" data-hh="['170px','170px','170px','170px']" width="170" height="170" data-no-retina> </div></div>
-
-		<!-- LAYER NR. 9 -->
-		<div class="tp-caption   tp-resizeme rs-parallaxlevel-4" 
-			 id="slide-3046-layer-12" 
-			 data-x="['left','left','left','left']" data-hoffset="['719','719','719','719']" 
-			 data-y="['top','top','top','top']" data-voffset="['200','200','200','200']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"from":"opacity:0;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 13;text-transform:left;border-width:0px;">
-<div class="rs-looped rs-rotate"  data-easing="Power2.easeInOut" data-startdeg="-20" data-enddeg="360" data-speed="20" data-origin="50% 50%"><img src="../../assets/images/blurflake2.png" alt="" data-ww="['50px','50px','50px','50px']" data-hh="['51px','51px','51px','51px']" width="50" height="51" data-no-retina> </div></div>
 
 		<!-- LAYER NR. 10 -->
 		<div class="tp-caption   tp-resizeme rs-parallaxlevel-6" 
