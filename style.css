@@ -48,7 +48,6 @@ header hr {
     font-size: 45px;
 }
 .footer {
-    text-decoration: none;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -57,14 +56,12 @@ header hr {
 
 } 
 .foot1 {
-    text-decoration: none;
     color: #707070;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
 }
 .foot2 {
-    text-decoration: none;
     color: #707070;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -202,4 +199,17 @@ h1 {
     object-fit: cover;
     width: 664;
     height: 500;
+}
+.formul {
+    background-color: #EFEFEF;
+    height: 916px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.formulaire {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }

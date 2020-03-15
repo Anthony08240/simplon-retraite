@@ -22,8 +22,12 @@
         </div>
     </header>
 
+    <!--testimonials-->
+    <?php include("carouseltxt.php"); ?>
 
-
+    <!--formulaire-->
+    <?php include("formulaire.php"); ?>
+    <!--footer-->
     <div class="footer">
                 <div class="foot1"><p>9 Avenue de Saint-Jean,<br>46800 Montcuq</p></div>
                 <div class="foot2"><p>Campu Sup,<br>08000 Charleville-Mézières</p></div>
