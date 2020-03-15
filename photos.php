@@ -53,6 +53,12 @@
       <img class="phot7" src="img/retraité 6.jpg" />   
       </div>
 </div>
+       <!--prettyphotos-->
+       <script type="text/javascript" charset="utf-8">
+               $(document).ready(function(){
+                 $("a[rel^='prettyPhoto']").prettyPhoto();
+               });
+             </script>
 
 <footer>
 <div class="footer">
@@ -66,11 +72,6 @@
             </div>
 </footer>
             
-       <!--prettyphotos-->
-<script type="text/javascript" charset="utf-8">
-               $(document).ready(function(){
-                 $("a[rel^='prettyPhoto']").prettyPhoto();
-               });
-             </script>
+
 </body>
 </html>

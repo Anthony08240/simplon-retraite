@@ -60,12 +60,14 @@ header hr {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
+    text-decoration: none;
 }
 .foot2 {
     color: #707070;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
+    text-decoration: none;
 }
 .facebook {
     height: 100px;
@@ -81,6 +83,7 @@ header hr {
     justify-content: center;
     align-items: center;
     background-color: #C3C3C3;
+    text-decoration: none;
 }
 .copylogo {
     height: 30px;
@@ -141,6 +144,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     height: 606px;
     background-color: #EFEFEF;
 }
@@ -148,6 +152,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     height: 602px;
     background-color: #FFFFFF;
 }
@@ -155,6 +160,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    flex-wrap: wrap;
     height: 606px;
     background-color: #EFEFEF;
 }
@@ -162,8 +168,14 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     height: 696px;
     background-color: #FFFFFF;
+}
+.photos {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 .phot1 {
     object-fit: cover;
@@ -212,4 +224,14 @@ h1 {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+.maps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 680px;
+}
+.maps2 {
+    height: 500px;
+    width: 745px;
 }

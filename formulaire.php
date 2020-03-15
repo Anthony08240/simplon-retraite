@@ -19,11 +19,13 @@
     </div>
 </div>
 </form>
+<div class="form1">
 <form class="message" method="post">
     <div>
         <label for="msg">Message :</label>
         <textarea id="msg" name="user_message"></textarea>
     </div>
+</div>
 </form>
 <div class="button">
         <button type="submit">Envoyer</button>

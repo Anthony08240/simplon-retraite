@@ -4,11 +4,15 @@
     height: 916px;
 }
 .form {
+    margin-left: 0,06em;
     margin-top: 200px;
     display: flex;
 }
+.form1 {
+  display: flex;
+  justify-content: center;
+}
 .message {
-    margin-left: 350px;
     margin-top: 100px;
 }
 #msg {
@@ -16,7 +20,8 @@
     height: 379px;
 }
 .button {
-    margin-left: 350px;
+   display: flex;
+   justify-content: center;
 }
 
   

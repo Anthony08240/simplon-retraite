@@ -27,6 +27,12 @@
 
     <!--formulaire-->
     <?php include("formulaire.php"); ?>
+
+    <!--maps-->
+    <div class="maps">
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZnkfuYvYUOM5ZPnFIxNMXmXFEV5Ir9br" width="745" height="500"></iframe>
+    </div>
+
     <!--footer-->
     <div class="footer">
                 <div class="foot1"><p>9 Avenue de Saint-Jean,<br>46800 Montcuq</p></div>
