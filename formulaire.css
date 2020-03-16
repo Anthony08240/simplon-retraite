@@ -68,3 +68,36 @@
        entre les étiquettes et les champs texte */
     margin-left: .5em;
   }
+  @media screen and (max-width: 768px) {
+    #msg {
+      margin-right: 30px;
+      width: 600px;
+      height: 379px;
+  }
+  input, textarea {
+    width: 300px;
+  }
+  }
+  @media screen and (max-width: 1024px) {
+    #msg {
+      margin-right: 30px;
+      width: 600px;
+      height: 379px;
+  }
+  input, textarea {
+    width: 300px;
+  }
+}
+@media screen and (max-width: 768px) {
+  #msg {
+
+    width: 378px;
+    height: 279px;
+}
+input, textarea {
+  width: 200px;
+}
+.button {
+  margin-left: -130px;
+}
+}

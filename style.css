@@ -235,3 +235,353 @@ h1 {
     height: 500px;
     width: 745px;
 }
+@media screen and (max-width: 768px) {
+    .logo2 {
+        width: 100px;
+        height: 90px;
+    }
+    .navtxt {
+        font-size: 5px;
+    }
+    .tete {
+        height: 50px;
+    }
+    .accu {
+        font-size: 20px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    .description {
+        font-size: 25px;
+    }
+    .foot1 {
+        font-size: 20px;
+    }
+    .foot2 {
+        font-size: 20px;
+    }
+    .facebook {
+        width: 50px;
+        height: 50px;
+    }
+    .twitter {
+        width: 55px;
+        height: 55px;
+    }
+    .footer {
+        height: 120px;
+    }
+    .copytxt {
+        font-size: 15px;
+    }
+    .copylogo {
+        width: 20px;
+        height: 20px;
+    }
+
+    /* résidences*/
+
+    .appart2 {
+        font-size: 25px;
+    }
+    .appart1 {
+        width: 350px;
+        height: 350px;
+    }
+
+    /* photos*/
+
+    .section1 {
+        border-top: 1px solid #707070;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 306px;
+        background-color: #EFEFEF;
+    }
+    .section2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 302px;
+        background-color: #FFFFFF;
+    }
+    .section3 {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        height: 306px;
+        background-color: #EFEFEF;
+    }
+    .section4 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 306px;
+        background-color: #FFFFFF;
+    }
+    .photos {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .phot1 {
+        object-fit: cover;
+        width: 150px;
+        height: 150px;
+    }
+    .phot2 {
+        object-fit: cover;
+        width: 250px;
+        height: 150px;
+    }
+    .phot3 {
+        object-fit: cover;
+        width: 157px;
+        height: 150px;
+    }
+    .phot4 {
+        object-fit: cover;
+        width: 603px;
+        height: 200px;
+    }
+    .phot5 {
+        object-fit: cover;
+        width: 316px;
+        height: 200px;
+    }
+    .phot6 {
+        object-fit: cover;
+        width: 250px;
+        height: 200px;
+    }
+    .phot7 {
+        object-fit: cover;
+        width: 364;
+        height: 200;
+    }
+}
+@media screen and (max-width: 1024px) {
+    .section1 {
+        border-top: 1px solid #707070;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 306px;
+        background-color: #EFEFEF;
+    }
+    .section2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 302px;
+        background-color: #FFFFFF;
+    }
+    .section3 {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        height: 306px;
+        background-color: #EFEFEF;
+    }
+    .section4 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 306px;
+        background-color: #FFFFFF;
+    }
+    .photos {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .phot1 {
+        object-fit: cover;
+        width: 150px;
+        height: 150px;
+    }
+    .phot2 {
+        object-fit: cover;
+        width: 250px;
+        height: 150px;
+    }
+    .phot3 {
+        object-fit: cover;
+        width: 157px;
+        height: 150px;
+    }
+    .phot4 {
+        object-fit: cover;
+        width: 603px;
+        height: 200px;
+    }
+    .phot5 {
+        object-fit: cover;
+        width: 316px;
+        height: 200px;
+    }
+    .phot6 {
+        object-fit: cover;
+        width: 250px;
+        height: 200px;
+    }
+    .phot7 {
+        object-fit: cover;
+        width: 364;
+        height: 200;
+    }
+}
+@media screen and (max-width: 414px) {
+    .logo2 {
+        width: 80px;
+        height: 70px;
+    }
+    .navtxt {
+        font-size: 5px;
+    }
+    .tete {
+        height: 30px;
+    }
+    .accu {
+        font-size: 20px;
+    }
+    h1 {
+        font-size: 20px;
+    }
+    .description {
+        font-size: 15px;
+    }
+    .desc {
+        height: 350px;
+    }
+    .foot1 {
+        font-size: 10px;
+    }
+    .foot2 {
+        font-size: 10px;
+    }
+    .facebook {
+        width: 30px;
+        height: 30px;
+    }
+    .twitter {
+        width: 35px;
+        height: 35px;
+    }
+    .footer {
+        height: 80px;
+    }
+    .copytxt {
+        font-size: 10px;
+    }
+    .copylogo {
+        width: 10px;
+        height: 10px;
+    }
+    
+    /* résidences*/
+
+    .appart2 {
+        font-size: 10px;
+    }
+    .appart1 {
+        width: 150px;
+        height: 150px;
+    }
+    .residence2 {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: #EFEFEF;
+        height: 250px;
+    }
+    .residence1 {
+        height: 250px;
+    }
+
+    /*photos*/
+
+    .section1 {
+        border-top: 1px solid #707070;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 206px;
+        background-color: #EFEFEF;
+    }
+    .section2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 202px;
+        background-color: #FFFFFF;
+    }
+    .section3 {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        height: 206px;
+        background-color: #EFEFEF;
+    }
+    .section4 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        height: 206px;
+        background-color: #FFFFFF;
+    }
+    .photos {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .phot1 {
+        object-fit: cover;
+        width: 100px;
+        height: 100px;
+    }
+    .phot2 {
+        object-fit: cover;
+        width: 150px;
+        height: 100px;
+    }
+    .phot3 {
+        object-fit: cover;
+        width: 107px;
+        height: 100px;
+    }
+    .phot4 {
+        object-fit: cover;
+        width: 303px;
+        height: 100px;
+    }
+    .phot5 {
+        object-fit: cover;
+        width: 216px;
+        height: 100px;
+    }
+    .phot6 {
+        object-fit: cover;
+        width: 150px;
+        height: 100px;
+    }
+    .phot7 {
+        object-fit: cover;
+        width: 264;
+        height: 100;
+    }
+}

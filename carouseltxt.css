@@ -94,4 +94,32 @@
       z-index: 3;
       opacity: 1;
     }
+
+    @media screen and (max-width: 768px) {
+      .arrow-prev{
+        right: 85%;
+        opacity: 40%;
+      }
+      .arrow-next {
+        opacity: 40%;
+      }
+    }
+    @media screen and (max-width: 414px) {
+      .arrow-prev{
+        right: 78%;
+        opacity: 20%;
+      }
+      .arrow-next {
+        opacity: 20%;
+      }
+      .item-1 {
+        font-size: 15PX;
+      }
+      .item-2 {
+        font-size: 15px;
+      }
+      .item-3 {
+        font-size: 15px;
+      }
+    }
   

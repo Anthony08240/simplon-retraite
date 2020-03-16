@@ -22,7 +22,9 @@
         </div>
     </header>
 
+    <!--carousel photo-->
     <?php include("carousel.php"); ?>
+
     <div class="residence1">
         <div class="txtres"><p class="photo"><img class="appart1" src="img/appart 1.png"></div>
         <div class="appart2">Concernant la résidence :<br>
