@@ -576,6 +576,7 @@ h1 {
     }
     .phot6 {
         object-fit: cover;
+        margin-left: 80px;
         width: 150px;
         height: 100px;
     }

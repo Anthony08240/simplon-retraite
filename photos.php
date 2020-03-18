@@ -24,6 +24,7 @@
             <div class="accu"><p>Galerie Photos</p></div>
         </div>
     </header>
+     
     <div class="section1">
     <div class="photo1"><a rel="prettyPhoto[myGallery]" class="phot1" href="img/personne agé.jpg">
       <img class="phot1" src="img/personne agé.jpg" />
@@ -53,13 +54,13 @@
       <img class="phot7" src="img/retraité 6.jpg" />   
       </div>
 </div>
-       <!--prettyphotos-->
-       <script type="text/javascript" charset="utf-8">
+
+      <!--prettyphotos-->
+      <script type="text/javascript" charset="utf-8">
                $(document).ready(function(){
                  $("a[rel^='prettyPhoto']").prettyPhoto();
                });
              </script>
-
 <footer>
 <div class="footer">
                 <div class="foot1"><p>9 Avenue de Saint-Jean,<br>46800 Montcuq</p></div>

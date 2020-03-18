@@ -1,18 +1,27 @@
 .backform {
     background-color: #EFEFEF;
     width: 100%;
-    height: 916px;
+    height: 316px;
 }
 .form {
     margin-left: 0,06em;
     margin-top: 200px;
     display: flex;
 }
-.form1 {
+.form {
   display: flex;
   justify-content: center;
 }
+.form1{
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  background-color: #EFEFEF;
+}
 .message {
+  display: flex;
     margin-top: 100px;
 }
 #msg {
@@ -99,5 +108,22 @@ input, textarea {
 }
 .button {
   margin-left: -130px;
+}
+}
+@media screen and (max-width: 768px) {
+  #msg {
+    display: flex;
+    justify-content: center;
+    width: 278px;
+    height: 279px;
+}
+input, textarea {
+  display: flex;
+    justify-content: center;
+  width: 150px;
+}
+.button {
+  display: flex;
+    justify-content: center;
 }
 }

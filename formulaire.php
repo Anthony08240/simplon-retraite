@@ -18,18 +18,19 @@
         <input type="email" id="mail" name="user_mail">
     </div>
 </div>
-</form>
+</div>
 <div class="form1">
-<form class="message" method="post">
+<div class="message">
     <div>
         <label for="msg">Message :</label>
         <textarea id="msg" name="user_message"></textarea>
     </div>
 </div>
-</form>
 <div class="button">
         <button type="submit">Envoyer</button>
     </div>
 </div>
+</form>
+
 </body>
 </html>
