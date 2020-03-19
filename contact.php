@@ -18,7 +18,7 @@
         </div>
         <hr>
         <div class="tete">
-            <div class="accu"><p>Accueil</p></div>
+            <div class="accu"><p>Contact</p></div>
         </div>
     </header>
 
